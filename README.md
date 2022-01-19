@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arthur Baghdasaryan (@arthurbaghdas)
+👋 Hi, I’m Arthur Baghdasaryan (@arthurbaghdas)
 
 
 <!--START_SECTION:waka-->
