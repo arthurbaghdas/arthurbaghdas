@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,5 +58,5 @@ JavaScript               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurbaghdas/arthurbaghdas/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 18:43:27 UTC
+ Last Updated on 08/03/2022 18:42:45 UTC
 <!--END_SECTION:waka-->
