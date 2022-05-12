@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,9 +35,9 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-PHP                      1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.9% 
-JSON                     48 mins             ████████░░░░░░░░░░░░░░░░░   33.88% 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+PHP                      1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.86% 
+JSON                     48 mins             ████████░░░░░░░░░░░░░░░░░   33.92% 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
 JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
@@ -60,5 +60,5 @@ JavaScript               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurbaghdas/arthurbaghdas/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:47:17 UTC
+ Last Updated on 12/05/2022 18:49:08 UTC
 <!--END_SECTION:waka-->
