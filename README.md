@@ -35,14 +35,10 @@ Sunday       103 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-PHP                      5 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.97% 
-YAML                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.4% 
-Shell Script             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 10 hrs 52 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -61,5 +57,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurbaghdas/arthurbaghdas/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2022 18:47:14 UTC
+ Last Updated on 14/08/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
