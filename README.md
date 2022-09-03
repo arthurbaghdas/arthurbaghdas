@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,5 +61,5 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurbaghdas/arthurbaghdas/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:48:18 UTC
+ Last Updated on 03/09/2022 18:45:54 UTC
 <!--END_SECTION:waka-->
