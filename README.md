@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,5 +61,5 @@ CSS                      2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurbaghdas/arthurbaghdas/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 18:37:09 UTC
+ Last Updated on 22/01/2023 18:37:12 UTC
 <!--END_SECTION:waka-->
